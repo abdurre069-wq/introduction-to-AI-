@@ -22,6 +22,17 @@ Each lab includes Python programs that demonstrate foundational concepts such as
 The goal is to build a strong foundation in Python while exploring introductory AI-related programming principles.
 
 ---
+## 👤 Student Information
+
+| Attribute | Details |
+|----------|---------|
+| **Student Name** | Abdur Rahman |
+| **Registration Number** | 24JZELE0568 |
+| **Course Title** | Introduction to AI Programming |
+| **Instructor Name** | Irshad Ullah |
+| **Semester** | Fall 2025 |
+| **Institution** | uet peshawar (Jalozai) |
+
 ## 🔰 Introduction
 This repository contains my lab tasks for the Introduction to Artificial Intelligence course. 
 Each lab demonstrates fundamental AI and Python programming concepts, including data types, 
