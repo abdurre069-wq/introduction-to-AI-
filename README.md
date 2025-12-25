@@ -83,8 +83,11 @@ By the end of the course, students should be able to write concise, Pythonic cod
 | Lab No 6 | List and Tuple |
 | Lab No 8 | Lambda Function |
 | Lab No 9 | Loops |
+| Lab No 10 | List Comprehension |
+| Lab No 11 | Dictionary Comprehension |
+| Lab No 12 | Exception Handling (Introduction) |
+| Lab No 13 | Reading and Writing Files |
 
----
 
 
 ## 🛠️ Technologies Used
