@@ -42,6 +42,20 @@ of basic AI-related programming skills.
 
 
 ---
+## 📘 Course Description
+
+**Introduction to AI Programming** is a foundational laboratory course that introduces students to essential programming concepts and data manipulation techniques using Python.  
+The course emphasizes **hands‑on practice with real coding tasks**, helping learners develop clear and efficient code using Python’s built‑in features such as list and dictionary comprehensions.
+
+Through weekly lab exercises, students will:
+- Build confidence in Python programming fundamentals.
+- Learn how to process and transform data using concise and readable code.
+- Apply comprehension techniques for lists and dictionaries.
+- Solve practical problems involving data filtering, mapping, and transformation.
+- Prepare for more advanced topics in AI, data science, and software development.
+
+By the end of the course, students should be able to write concise, Pythonic code that can efficiently handle and manipulate classroom datasets for common data‑processing workflows.
+
 ## 📑 Table of Contents
 - [Introduction](#introduction-to-artificial-intelligence--lab-tasks)
 - [Overview](#-overview)
