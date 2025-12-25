@@ -58,12 +58,13 @@ By the end of the course, students should be able to write concise, Pythonic cod
 
 ## 📑 Table of Contents
 - [Introduction](#introduction-to-artificial-intelligence--lab-tasks)
+- [Course Description](#-course-description)
+- [Student Information](#-student-information)
 - [Overview](#-overview)
 - [Repository Structure](#-repository-structure)
 - [Lab Tasks](#-lab-tasks)
 - [Technologies Used](#-technologies-used)
 
----
 ## 📂 Repository Structure
 
 ---
