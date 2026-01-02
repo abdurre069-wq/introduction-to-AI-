@@ -3,6 +3,16 @@
 This repository contains all lab work completed for the **Introduction to Artificial Intelligence** course. Each lab focuses on core AI concepts and their implementation using **Python**.
 
 ---
+## 📑 Table of Contents
+- [Introduction](#introduction-to-artificial-intelligence--lab-tasks)
+- [Course Description](#-course-description)
+- [Student Information](#-student-information)
+- [Overview](#-overview)
+- [Repository Structure](#-repository-structure)
+- [Lab Tasks](#-lab-tasks)
+- [Technologies Used](#-technologies-used)
+---
+---
 
 ## 📘 Overview
 
@@ -56,14 +66,7 @@ Through weekly lab exercises, students will:
 
 By the end of the course, students should be able to write concise, Pythonic code that can efficiently handle and manipulate classroom datasets for common data‑processing workflows.
 
-## 📑 Table of Contents
-- [Introduction](#introduction-to-artificial-intelligence--lab-tasks)
-- [Course Description](#-course-description)
-- [Student Information](#-student-information)
-- [Overview](#-overview)
-- [Repository Structure](#-repository-structure)
-- [Lab Tasks](#-lab-tasks)
-- [Technologies Used](#-technologies-used)
+
 
 ## 📂 Repository Structure
 
